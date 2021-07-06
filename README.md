@@ -1,23 +1,21 @@
-- 👋 Hi, I’m Joao Victor
+![cover](https://github.com/joaovictordds/joaovictordds/blob/main/cover.jpg)
+
+Welcome to my personal backup of Data Science projects.
 
 Who am I?
 
-- 👩‍💻 Data Analyst/Scientist
+- 👩‍💻 Professional of Data
 - 💻 Business consultant
-- 👀 Open to new projects
 
 ----------------------------------------
-Skills
 
-- 🐍 Python (only for Data Science)
-- 🗄 SQL.
-- 🧮 Power BI.
-- 🔮 Machine Learning.
-- 📊 Data Visualization
-- 🧪 Survival Analysis.
+- 🗄 Structured data: MYSQL
+- 🧮 BI tools (Power BI/Data Studio)
+- 🔮 Machine Learning | 🐍 Python
 
 -------------------------------------------
 
-- 👀 I’m interested in improve my data and computing skills.
-- 🌱 I’m currently learning PySpark, PyTorch, VSCode, Python...
-- 📫 How to reach me: j.victordds@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaovictordds/)
+
+
+*Photo by <a href="https://unsplash.com/@freegraphictoday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">AbsolutVision</a> on <a href="https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
