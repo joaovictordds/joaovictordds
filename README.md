@@ -5,6 +5,8 @@ Welcome to my personal backup of Data Science projects.
 
 [My Portfólio](https://joaovictordds.github.io/Portfolio/)
 
+[My Medium chanel](https://medium.com/@joaovictordds)
+
 Who am I?
 
 - 👩‍💻 Professional of Data
