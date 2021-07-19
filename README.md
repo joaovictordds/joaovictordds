@@ -1,26 +1,15 @@
 
-![cover](https://github.com/joaovictordds/joaovictordds/blob/main/cover.jpg)
+![cover](https://media0.giphy.com/media/g4jDE1JnpUNaw/giphy.gif)
 
-Welcome to my personal backup of Data Science projects.
+---
 
-[My Portfólio](https://joaovictordds.github.io/Portfolio/)
+About me: Professional of Data 💻
 
-[My Medium chanel](https://medium.com/@joaovictordds)
+[My portfólio](https://joaovictordds.github.io/Portfolio/)
 
-Who am I?
-
-- 👩‍💻 Professional of Data
-- 💻 Business consultant
+[My medium chanel](https://medium.com/@joaovictordds)
 
 ----------------------------------------
 
-- 🗄 Structured data: MYSQL
-- 🧮 BI tools (Power BI/Data Studio)
-- 🔮 Machine Learning | 🐍 Python
-
--------------------------------------------
-
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaovictordds/)
 
-
-*Photo by <a href="https://unsplash.com/@freegraphictoday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">AbsolutVision</a> on <a href="https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
