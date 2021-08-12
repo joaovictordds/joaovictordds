@@ -1,14 +1,9 @@
 
-
-  <h1 align="center">Hi 👋, I'm Joao victor</h1>
-<h3 align="center">A full-time Data Scientist/Analyst. 👨‍💻 working remotely 🚀</h3>
-
-
 ## About me 
 
 - 🔭 I’m currently working on my [portfolio](https://share.streamlit.io/joaovictordds/portfolio/main/portfolio.py).
 
-- 🌱 I’m currently learning AWS Tools and PySpark.  
+- 🌱 I’m currently learning big data tools.  
   
 - ⚡ Fun fact: I use tabs over spaces  
 
